@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+*.bak 
+*.py[cod] 
+*$py.class 
+pip-log.txt 
+.venv 
+env/ 
+venv/ 
+**/migrations
+*.DS_Store
+**/__pycache__
