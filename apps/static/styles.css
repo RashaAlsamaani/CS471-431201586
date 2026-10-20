@@ -1,0 +1,29 @@
+/* Style the top navigation */
+.topnav {
+    background-color: #eeeeee;
+    width: 100%;
+    padding: 10px 0;
+}
+
+/* Style the navigation links */
+.topnav a {
+    color: #000000;
+    text-align: center;
+    margin-right: 25px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Style the active navigation link */
+.topnav a.active {
+    color: #008CBA;
+}
+
+/* Style the footer */
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #eeeeee;
+    text-align: center;
+}
+
